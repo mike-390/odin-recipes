@@ -1,0 +1,1 @@
+A simple HTML project featuring a collection of delicious recipes.
